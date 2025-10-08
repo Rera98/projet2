@@ -20,7 +20,7 @@
 
 ![Description de l’image](assets/echo_git_1.png)
 
-![Description de l’image](assets/Exercice1_history_git_1.png)
+![Description de l’image](assets/Exercice1_history.png)
 
 ## Exercice 2
 
